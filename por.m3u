@@ -8,14 +8,26 @@ http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156940
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/RTP2.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", RTP 2 ᵁᴴᴰ
 http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156941
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/RTP3.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", RTP 3 ᵁᴴᴰ
-http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156942
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/SIC.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", SIC ᵁᴴᴰ
+http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156945
 
 #EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/tvi24pitcon.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", TVI ᵁᴴᴰ
 http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156968
 
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/RTP3.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", RTP 3 ᵁᴴᴰ
+http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156942
+
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/SICNOTICIAS.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", SIC NOTICIAS ᵁᴴᴰ
+http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156948
+
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVI24.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", TVI 24 ᵁᴴᴰ
 http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156967
+
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/CMTV.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", CMTV ᵁᴴᴰ
+http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156913
+
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5016.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", CANAL 11 ᵁᴴᴰ
+http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156911
 
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/TVI.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", TVI FICCAO ᵁᴴᴰ
 http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156969
@@ -26,9 +38,6 @@ http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156970
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/RECORDHD.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", TV RECORD ᵁᴴᴰ
 http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156971
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/SIC.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", SIC ᵁᴴᴰ
-http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156945
-
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/SICCARAS.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", SIC CARAS ᵁᴴᴰ
 http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156944
 
@@ -37,9 +46,6 @@ http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156946
 
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/SICMULHER.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", SIC MULHER ᵁᴴᴰ
 http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156947
-
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/SICNOTICIAS.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", SIC NOTICIAS ᵁᴴᴰ
-http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156948
 
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/SICRADICAL.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", SIC RADICAL ᵁᴴᴰ
 http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156949
@@ -55,9 +61,6 @@ http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156908
 
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/BLAZE.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", BLAZE ᵁᴴᴰ
 http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156909
-
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/5016.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", CANAL 11 ᵁᴴᴰ
-http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156911
 
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/CMTV.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", CMTV ᵁᴴᴰ
 http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156913
@@ -868,5 +871,6 @@ http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/522109
 
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-pt-2678.png" group-title="|PT| ✪ DAZN PPV", PT-DAZN 50
 http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/522110
+
 
 
