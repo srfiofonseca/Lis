@@ -50,6 +50,9 @@ http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156947
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/SICRADICAL.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", SIC RADICAL ᵁᴴᴰ
 http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156949
 
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/PORTOCANAL.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", |PT|   PORTO CANAL  ᵁᴴᴰ
+http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156939
+
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/AXNHD.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", AXN ᵁᴴᴰ
 http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156907
 
@@ -118,9 +121,6 @@ http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156936
 
 #EXTINF:-1 tvg-logo="http://logodmtv.ddns.net/new_logo/PICONS-BOUQUET-PORTUGAL/FIGHTNETWORK.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", |PT|  FIGHT NETWORK ᵁᴴᴰ
 http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156922
-
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/PORTOCANAL.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", |PT|   PORTO CANAL  ᵁᴴᴰ
-http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156939
 
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/PORTUGAL/FOODNETWORK.png" group-title="|PT| ✪ ULTRA ᵁᴴᴰ", |PT|  FOOD NETWORK ᵁᴴᴰ
 http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/156923
@@ -868,6 +868,7 @@ http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/522109
 
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-pt-2678.png" group-title="|PT| ✪ DAZN PPV", PT-DAZN 50
 http://885139879550.d4ktv.info:80/ux7rjfsohe/l9qhwpupv3/522110
+
 
 
 
